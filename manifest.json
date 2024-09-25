@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Job Copier to Clipboard (Glassdoor)",
+    "version": "1.0",
+    "description": "Supported sites: Glassdoor",
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "clipboardWrite"
+    ],
+    "action": {
+        "default_popup": "main.html"
+    }
+}
